@@ -1,0 +1,1 @@
+test_add_product_excel là một dự án nhỏ nằm trong đồ án cuối kì của môn học Đảm bảo chất lượng phần mềm. Dự án này sẽ lấy dữ liệu test case từ file excel và thực hiện test. Sau đó kết quả của test case sẽ được lưu lại vào file excel
